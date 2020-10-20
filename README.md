@@ -1,3 +1,5 @@
 # polkadothackathon
 
-Submission storage for the hackathon
+1 - clone repo
+
+2 - `yarn start` in downloaded repo directory in console
